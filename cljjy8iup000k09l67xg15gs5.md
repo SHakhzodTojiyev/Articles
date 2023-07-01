@@ -10,4 +10,4 @@ tags: dasturlash, uzbekistan
 
 Zamonaviy kasblarni bepul o'rganish imkonini beruvchi ma'lumotlar to'plami.
 
-✨ https://github.com/SHakhzodTojiyev/Odamlar-Ucha-Olar
+✨ https://github.com/SHakhzodTojiyev/ITC
