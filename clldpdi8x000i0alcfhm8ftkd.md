@@ -35,6 +35,7 @@ Klassdan foydalanishda esa uning ichki tuzilishi va qanday ishlashini bilish tal
 **Masalan, mashhur sof OOP tillariga quyidagilar kiradi:**
 - Ruby
 - Scala
+
 **Asosan OOP uchun moʻljallangan dasturlash tillariga quyidagilar kiradi:**
 - Java
 - Python
