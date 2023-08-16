@@ -40,3 +40,9 @@ Klassdan foydalanishda esa uning ichki tuzilishi va qanday ishlashini bilish tal
 - Java
 - Python
 - C++
+
+**OOP bilan bog'langan boshqa dasturlash tillariga quyidagilar kiradi:**
+- Visual Basic .NET
+- PHP
+- JavaScript
+
