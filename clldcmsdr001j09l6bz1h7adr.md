@@ -14,5 +14,6 @@ tags: oop, python, python3, classes, oops
 
 
 ### 🎁  [Ingliz tilini biladiganlar uchun!](https://shakhzodtojiyev.blogspot.com/2023/03/python-oops-concepts.html)
+### 🚀 [GitHub orqali ko'proq misollarni ko'ring](https://github.com/Vite-Academy/OOP)
 
 
