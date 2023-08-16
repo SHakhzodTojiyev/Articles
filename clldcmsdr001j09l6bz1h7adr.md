@@ -10,8 +10,9 @@ tags: oop, python, python3, classes, oops
 ---
 
 ### Python-da ob'ektga yo'naltirilgan dasturlashga kirish!
-> **Python-da hamma narsa ob'ektdir. Ob'ektning holati va xatti-harakatlari mavjud. Ob'ektni yaratish uchun avval siz sinfni aniqlaysiz. Sinfdan foydalanib siz bir yoki bir nechta ob'ektlarni yaratishingiz mumkin ya'ni ob'ektlar sinfning namunalari hisoblanadi.**
+> Python-da hamma narsa ob'ektdir. Ob'ektning holati va metodlari mavjud. Ob'ektni yaratish uchun avval siz sinfni aniqlaysiz. Sinfdan foydalanib siz bir yoki bir nechta ob'ektlarni yaratishingiz mumkin ya'ni ob'ektlar sinfning namunalari hisoblanadi.
 
-### 🎁  [Ingliz tilini biladiganlar uchun](https://shakhzodtojiyev.blogspot.com/2023/03/python-oops-concepts.html)
+
+### 🎁  [Ingliz tilini biladiganlar uchun!](https://shakhzodtojiyev.blogspot.com/2023/03/python-oops-concepts.html)
 
 
