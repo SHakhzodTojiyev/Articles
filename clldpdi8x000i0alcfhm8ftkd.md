@@ -66,3 +66,6 @@ Klassdan foydalanishda esa uning ichki tuzilishi va qanday ishlashini bilish tal
 > Ko'pgina ilg'or dasturlash tillari ishlab chiquvchilarga modellarni birlashtirishga imkon beradi, chunki ular turli xil dasturlash usullari uchun ishlatilishi mumkin. Masalan, JavaScript-dan OOP va funktsional dasturlash uchun foydalanish mumkin.
 
 **OOP va mikroservislar bilan ishlaydigan dasturchilar OOP tamoyillarini qo'llash orqali mikroservislarning umumiy muammolarini hal qilishlari mumkin.**
+
+### 🎁  [Ingliz tilini biladiganlar uchun!](https://shakhzodtojiyev.blogspot.com/2023/03/python-oops-concepts.html)
+### 🚀 [GitHub orqali ko'proq misollarni ko'ring!](https://github.com/Vite-Academy/OOP)
