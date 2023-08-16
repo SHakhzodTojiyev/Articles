@@ -57,4 +57,12 @@ Klassdan foydalanishda esa uning ichki tuzilishi va qanday ishlashini bilish tal
 - Moslashuvchanlik. Polimorfizm bitta funktsiyaga u joylashgan sinfga moslashish imkonini beradi. Turli ob'ektlar ham bir xil interfeys orqali o'tishi mumkin.
 
 ### OOPni tanqid qilish!
+> Ob'ektga yo'naltirilgan dasturlash modeli ishlab chiquvchilar tomonidan bir necha sabablarga ko'ra tanqid qilingan. Eng katta tashvish shundaki, OOP dasturiy ta'minotni ishlab chiqishning ma'lumotlar komponentiga ortiqcha urg'u beradi va hisoblash yoki algoritmlarga etarlicha e'tibor bermaydi. Bundan tashqari, OOP kodini yozish ancha murakkab va kompilyatsiya qilish ko'proq vaqt talab qilishi mumkin.
 
+**OOPning muqobil usullari quyidagilardan iborat:**
+- Funktsional dasturlash.
+- Strukturaviy yoki modulli dasturlash. Bunga PHP va C# kabi tillar kiradi.
+
+> Ko'pgina ilg'or dasturlash tillari ishlab chiquvchilarga modellarni birlashtirishga imkon beradi, chunki ular turli xil dasturlash usullari uchun ishlatilishi mumkin. Masalan, JavaScript-dan OOP va funktsional dasturlash uchun foydalanish mumkin.
+
+### OOP va mikroservislar bilan ishlaydigan dasturchilar OOP tamoyillarini qo'llash orqali mikroservislarning umumiy muammolarini hal qilishlari mumkin.
