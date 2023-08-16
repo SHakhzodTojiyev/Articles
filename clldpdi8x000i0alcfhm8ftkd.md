@@ -46,3 +46,15 @@ Klassdan foydalanishda esa uning ichki tuzilishi va qanday ishlashini bilish tal
 - PHP
 - JavaScript
 
+### OOP ning qanday afzalliklari bor?
+**OOPning afzalliklari quyidagilardan iborat:**
+- Modullilik. Inkapsulyatsiya ob'ektlarni o'z-o'zidan saqlashga imkon beradi, bu esa muammolarni bartaraf etish va hamkorlikda ishlab chiqishni osonlashtiradi.
+- Qayta foydalanish imkoniyati. Kod meros orqali qayta ishlatilishi mumkin, ya'ni jamoa bir xil kodni bir necha marta yozishi shart emas.
+- Hosildorlik. Dasturchilar bir nechta kutubxonalar va qayta foydalanish mumkin bo'lgan kodlar yordamida yangi dasturlarni tezroq qurishlari mumkin.
+- Osonlik bilan yangilanadigan va kengaytirilishi mumkin. Dasturchilar tizim funksiyalarini mustaqil ravishda amalga oshirishlari mumkin.
+- Interfeys tavsiflari. Ob'ektlar bilan aloqa qilish uchun ishlatiladigan xabarlarni uzatish metodlari tufayli tashqi tizimlarning tavsiflari oddiy.
+- Xavfsizlik. Inkapsulyatsiya va abstraktsiyadan foydalanib, murakkab kod yashiringan, dasturiy ta'minotga texnik xizmat ko'rsatish osonroq va internet protokollari himoyalangan.
+- Moslashuvchanlik. Polimorfizm bitta funktsiyaga u joylashgan sinfga moslashish imkonini beradi. Turli ob'ektlar ham bir xil interfeys orqali o'tishi mumkin.
+
+### OOPni tanqid qilish!
+
